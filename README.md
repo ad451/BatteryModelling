@@ -1,4 +1,4 @@
-![image](https://github.com/ad451/BatteryModelling/assets/71942892/f7e962fa-5fde-4ea3-82c8-919e293d7fcb)# Battery Modeling Jupyter Notebook
+# Battery Modelling
 
 ## Overview
 
@@ -26,7 +26,7 @@ This repository contains a Jupyter notebook that demonstrates battery modeling u
 
 ## Notebook Contents
 
-- `battery_modeling.ipynb`: The Jupyter notebook containing code, explanations, and visualizations for battery modeling.|
+- `BatteryModelling.ipynb`: The Jupyter notebook containing code, explanations, and visualizations for battery modeling.|
 
 ## Performance
 
